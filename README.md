@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/alequizao/whaticket-inst
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd && rm -rf instalodordeploy && git clone https://github.com/ctichat/instalodordeploy.git && sudo chmod -R 777 instalodordeploy && cd instalodordeploy && sudo ./install_instancia
+cd && rm -rf instalodordeploy && git clone https://github.com/alequizao/whaticket-instalador-free.git && sudo chmod -R 777 instalodordeploy && cd instalodordeploy && sudo ./install_instancia
 ```
 
